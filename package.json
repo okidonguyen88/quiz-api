@@ -1,0 +1,14 @@
+{
+  "name": "quiz-api",
+  "version": "1.0.0",
+  "description": "Phan mem trach nghiem truc tuyen",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OKIDONGUYEN88",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
